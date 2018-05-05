@@ -17,7 +17,10 @@ Move into the cloned repository, then run the following:
 ### 3. Build
 	$ go build
 	
-### 4. Run
+## Run
+
+After running the build steps above, you can run the service:
+
 	$ ./dep-test
 
 &copy; 2018 [qosdil@gmail.com](mailto://qosdil@gmail.com)
