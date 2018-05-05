@@ -1,5 +1,5 @@
 # dep-test
-## Prequisites
+## Prerequisites
 * Go v?
 * dep v?
 
