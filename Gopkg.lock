@@ -4,12 +4,12 @@
 [[projects]]
   name = "bitbucket.org/qosdil/go-calc"
   packages = ["."]
-  revision = "bc12492209aa04dde353a0f1dcc81e19201869cf"
-  version = "1.0.1"
+  revision = "c0fd1ccd94fec4926cdddb57d54bafbd9a9c811f"
+  version = "1.0.2"
 
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "4beda67194334387b83112383dbf59b2a70a3bd0e63c5fedbe0a3e8e23fe62ec"
+  inputs-digest = "f306da90b6e5006264934a06a26ab033fdb57617f7d42e021fc5e6d0a5bcb7a4"
   solver-name = "gps-cdcl"
   solver-version = 1
