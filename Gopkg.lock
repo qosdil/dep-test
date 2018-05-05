@@ -2,10 +2,10 @@
 
 
 [[projects]]
-  branch = "master"
   name = "bitbucket.org/qosdil/go-calc"
   packages = ["."]
-  revision = "5316a152768ee815d3f09f2a9523209f85b587c2"
+  revision = "bc12492209aa04dde353a0f1dcc81e19201869cf"
+  version = "1.0.1"
 
 [solve-meta]
   analyzer-name = "dep"
