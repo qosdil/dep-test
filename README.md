@@ -9,6 +9,9 @@ Make sure that your system has met the prerequisites above before running the fo
 
 ### 1. Clone The Repository
 ### 2. Install Dependencies
+
+Move into the cloned repository, then run the following:
+
 	$ dep ensure
 	
 ### 3. Build
