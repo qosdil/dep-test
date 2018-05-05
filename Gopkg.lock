@@ -5,7 +5,7 @@
   branch = "master"
   name = "bitbucket.org/qosdil/go-calc"
   packages = ["."]
-  revision = "073b7fcf5c9c8e63e93ed3f76d01ec06746ca941"
+  revision = "5316a152768ee815d3f09f2a9523209f85b587c2"
 
 [solve-meta]
   analyzer-name = "dep"
