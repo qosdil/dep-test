@@ -28,3 +28,7 @@
 [prune]
   go-tests = true
   unused-packages = true
+
+[[constraint]]
+  name = "bitbucket.org/qosdil/go-calc"
+  version = "1.0.0"
