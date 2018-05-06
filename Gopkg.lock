@@ -4,8 +4,8 @@
 [[projects]]
   name = "bitbucket.org/qosdil/go-calc"
   packages = ["."]
-  revision = "c0fd1ccd94fec4926cdddb57d54bafbd9a9c811f"
-  version = "1.0.2"
+  revision = "3f43451b184868540d9424d22ebb30df6ca3ac18"
+  version = "1.0.3"
 
 [solve-meta]
   analyzer-name = "dep"
